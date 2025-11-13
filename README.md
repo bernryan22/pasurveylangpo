@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Do You Like Me?</title>
+    <title>Busy ka ba?</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Dancing Script, sans-serif;
             text-align: center;
             margin-top: 100px;
         }
@@ -32,10 +32,10 @@
     </style>
 </head>
 <body>
-    <div id="question">Do you like me?</div>
+    <div id="question">Busy ka ba?</div>
     <button id="yes">Yes</button>
     <button id="no">No</button>
-    <div id="message">I know you like me!</div>
+    <div id="message">sabi ko nga gusto moko!</div>
 
     <script>
         const yesBtn = document.getElementById('yes');
